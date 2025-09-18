@@ -1,4 +1,5 @@
-![GitHub Contribution Graph](https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/examples/github-contribution-grid-snake.svg)
+![GitHub Contribution Graph](https://raw.githubusercontent.com/Keerthims13/Keerthims13/output/github-contribution-grid-snake.svg)
+
 
 # 👋 Hi, I'm Keerthi M S  
 
